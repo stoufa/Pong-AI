@@ -1,0 +1,4 @@
+Author: Stoufa ( https://github.com/stoufa )
+The Javascript code was obfuscated and minified using Google's closure compiler ( https://developers.google.com/closure/compiler/ )
+The CSS code was compressed using Dan's Tools ( https://www.danstools.com/ )
+The HTML code was formatted using Dan's Tools ( https://www.danstools.com/ )
