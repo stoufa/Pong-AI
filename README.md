@@ -21,3 +21,12 @@ L'objectif majeur de cette application est de pouvoir améliorer les performance
 
 :fr: Je n'ai pas pris en compte la compatibilité de tous les navigateurs, j'ai seulement utilisé `Google Chrome` pour tester l'application (puisqu'il supporte les APIs HTML5 les plus récentes). Votre navigateur Web doit prendre en charge certaines APIs HTML5, notamment les APIs Audio et Canvas.  
 
+<hr>
+
+<img src="https://emojis.slackmojis.com/emojis/images/1485555744/1681/bitcoin.png" valign="middle" width="40" /> &nbsp; If you found this helpful, consider helping me by sending some Bitcoins to the following address. Thank you 😊
+
+<pre align="center">
+15m4Prjz4WLSsCgBcZTa62cUetiwo6sZKg
+</pre>
+
+
